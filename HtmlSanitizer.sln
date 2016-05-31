@@ -1,11 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlSanitizer", "HtmlSanitizer\HtmlSanitizer.csproj", "{CCDB0C26-D683-4943-B5D8-AC07116461E5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlSanitizer.Tests", "HtmlSanitizer.Tests\HtmlSanitizer.Tests.csproj", "{55D772A0-8D8C-4CF7-A876-E6DAB8ED42C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_lib", "_lib", "{A0E80D90-4191-4C13-A522-8BD1381E2ED5}"
+	ProjectSection(SolutionItems) = preProject
+		_lib\AngleSharp.dll = _lib\AngleSharp.dll
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
