@@ -41,10 +41,6 @@
       <HintPath>..\packages\AhoCorasick.1.1.5577.36525\lib\portable-net40+sl50+win+wpa81+wp80\AhoCorasick.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="AngleSharp, Version=0.9.6.41832, Culture=neutral, PublicKeyToken=e83494dcdc6d31ea, processorArchitecture=MSIL">
-      <HintPath>..\packages\AngleSharp.0.9.6\lib\net45\AngleSharp.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="AutoLink, Version=1.0.5595.30240, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\AutoLink.1.0.5595.30240\lib\portable-net40+sl50+win+wpa81+wp80\AutoLink.dll</HintPath>
       <Private>True</Private>
